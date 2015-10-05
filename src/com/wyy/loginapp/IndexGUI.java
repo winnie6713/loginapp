@@ -40,7 +40,7 @@ public class IndexGUI extends JFrame {
         });
     }
     public IndexGUI() {
-        setTitle("KnowYou");  //设置窗体标题
+        setTitle("weiyunyun");  //设置窗体标题
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); //设置默认关闭方式，点击窗体关闭按钮可关闭窗体
         setBounds(100, 100, 650, 400);
         contentPane = new JPanel(); //实例化面板
